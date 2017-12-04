@@ -2,7 +2,7 @@
 public class ControladorDelJuego {
 
 	public static void main(String[] args) {
-		/** esta clase "Juego" controla la lógica del juego
+		/** esta clase "ControladorDelJuego" controla la lógica del juego
 		 * es decir determina quien juega y quien gana el tatetí, o si hubo empate
 		 */
 		
@@ -16,7 +16,6 @@ public class ControladorDelJuego {
 		int contadorDeJugadas = 1 ; // esta variable controla la cantidad de jugadas 
 		
 		/**
-		 * si la cantidad de jugadas es menor a 9 y
 		 * si no hay ganador 
 		 * entonces el juego continua dentro del while
 		 */
